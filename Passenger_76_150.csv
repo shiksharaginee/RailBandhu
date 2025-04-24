@@ -1,0 +1,76 @@
+PassengerID,Name,Age,Gender,Phone,Wallet,concession
+76,Aarav Mehta,34,M,9876543210,480.50,None
+77,Diya Kapoor,62,F,9988776655,320.00,Senior Citizen
+78,Arjun Sharma,29,M,9123456789,150.75,None
+79,Meera Patel,45,F,9811122233,200.00,Ladies
+80,Krishna Das,70,M,9001234567,600.00,Senior Citizen
+81,Ishita Roy,19,F,7894561230,50.00,Student
+82,Aditya Nair,52,M,9823456780,720.20,None
+83,Sanya Jain,66,F,7896541236,1000.00,Senior Citizen
+84,Ved Singh,32,M,9900112233,80.00,None
+85,Ananya Reddy,41,F,8888999900,340.00,Ladies
+86,Kunal Verma,75,M,9012345678,120.00,Senior Citizen
+87,Riya Ghosh,20,F,9876501234,250.00,Student
+88,Raj Malhotra,28,M,9833344455,430.50,None
+89,Priya Desai,50,F,9856781234,500.00,None
+90,Nikhil Bhat,60,M,9822113344,150.00,Disabled
+91,Tanvi Sen,38,F,9111122233,320.00,None
+92,Aman Khanna,67,M,9900990011,90.00,Senior Citizen
+93,Nisha Menon,23,F,9753124680,270.00,Ladies
+94,Harsh Vora,18,M,9977885544,65.00,Student
+95,Kiara Singh,26,F,9898989898,190.00,None
+96,Yash Mittal,47,M,9011122233,410.00,None
+97,Neha Dube,36,F,9800987654,300.00,Ladies
+98,Viraj Kapoor,71,M,9123450987,220.00,Senior Citizen
+99,Shruti Naik,27,F,9845612370,175.00,None
+100,Samar Gill,33,M,9777712345,280.00,None
+101,Ira Bhatt,42,F,9988771122,360.00,Ladies
+102,Rehan Joshi,19,M,9876512345,90.00,Student
+103,Kavya Trivedi,68,F,9876577777,520.00,Senior Citizen
+104,Manav Sethi,55,M,9090909090,440.00,None
+105,Ayesha Khan,49,F,9888899990,315.00,Ladies
+106,Dev Arora,61,M,9234567890,230.00,Disabled
+107,Shraddha Rao,37,F,9876612345,170.00,Ladies
+108,Parth Agarwal,24,M,9876112233,290.00,None
+109,Naina Kulkarni,35,F,9822334455,460.00,Ladies
+110,Shaan Mathur,73,M,9090123456,530.00,Senior Citizen
+111,Manya Deshpande,20,F,9786453120,220.00,Student
+112,Jay Bhansali,27,M,9765432109,180.00,None
+113,Simran Taneja,39,F,9901234567,350.00,Ladies
+114,Karan Oberoi,44,M,9011122334,210.00,None
+115,Preeti Mehta,63,F,9988776644,400.00,Senior Citizen
+116,Aarush Sinha,21,M,9810012345,240.00,Student
+117,Swara Shah,30,F,9877654321,270.00,Ladies
+118,Rajeev Prasad,53,M,9112233445,380.00,None
+119,Divya Shankar,40,F,9833344765,190.00,Ladies
+120,Veer Nanda,59,M,9090987654,430.00,Disabled
+121,Suhana Tyagi,22,F,9123445678,290.00,Ladies
+122,Naman Saxena,35,M,9767654321,170.00,None
+123,Tanya Pillai,65,F,9845098761,210.00,Senior Citizen
+124,Abhay Yadav,43,M,9998877665,310.00,None
+125,Ritika Chopra,46,F,9809809809,275.00,Ladies
+126,Ayaan Bhardwaj,70,M,9988098709,620.00,Senior Citizen
+127,Anushka Dey,18,F,9900789456,130.00,Student
+128,Siddharth Rao,28,M,9012349900,260.00,None
+129,Pallavi Joshi,34,F,9888098098,295.00,Ladies
+130,Neil Fernandes,45,M,9111002200,350.00,None
+131,Avni Sharma,67,F,9867867867,510.00,Senior Citizen
+132,Ishaan Paul,20,M,9700987654,110.00,Student
+133,Sneha Iyer,38,F,9821234567,400.00,Ladies
+134,Tarun Khurana,58,M,9988123456,480.00,None
+135,Roshni Mohan,31,F,9870987654,290.00,Ladies
+136,Zaid Ahmed,19,M,9897123456,95.00,Student
+137,Trisha Kapoor,29,F,9876540123,180.00,Ladies
+138,Kush Jain,54,M,9765123400,390.00,None
+139,Nimrit Kaur,47,F,9856234587,330.00,Ladies
+140,Dhruv Rathi,72,M,9887123456,550.00,Senior Citizen
+141,Saanvi Nair,18,F,9000123456,105.00,Student
+142,Aniket Bansal,33,M,9023456789,250.00,None
+143,Reet Sharma,36,F,9855123456,300.00,Ladies
+144,Kartik Vyas,51,M,9877777777,290.00,None
+145,Anjali Saxena,60,F,9876654321,470.00,Disabled
+146,Aryan Mahajan,26,M,9789789789,210.00,None
+147,Ritika Arora,43,F,9900012345,350.00,Ladies
+148,Atharv Mishra,67,M,9888888888,520.00,Senior Citizen
+149,Priyanka Raina,25,F,9870001234,275.00,Ladies
+150,Om Bhattacharya,22,M,9809876543,195.00,Student
